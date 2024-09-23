@@ -31,4 +31,3 @@ export default class BasePage {
 
 }
 
-//https://www.youtube.com/watch?v=ylEy4eLdhFs
